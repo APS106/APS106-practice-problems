@@ -25,7 +25,7 @@ def swap_base_pair(dna, n1, n2):
 def duplicate_DNA_strand(dna):
     '''
     (string) -> string
-    Takes in a string of nuclerotide letters (ATGC)
+    Takes in a string of nucleotide letters (ATGC)
     and returns the matching DNA where:
       A <-> T
       C <-> G
