@@ -28,9 +28,9 @@
 ```
 
 #### Creating JupyterHub Links
-https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-practice-problems&urlpath=tree%2FAPS106-practice-problems%2F{WEEK}%2F{FILENAME}&branch=master
+https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-practice-problems&urlpath=tree%2FAPS106-practice-problems%2F2025%2F{WEEK}%2F{FILENAME}&branch=main
 
 For example, if I want to link to the starter notebook file (tutorial0_starter.ipynb) in the master subfolder for tutorial 0, I would use the following link.
-https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-practice-problems&urlpath=tree%2FAPS106-practice-problems%2Fweek2%2Fweek2_practice_problems_starter.ipynb&branch=master
+https://jupyter.utoronto.ca/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAPS106%2FAPS106-practice-problems&urlpath=tree%2FAPS106-practice-problems%2F2025%2Fweek2%2Fweek2_practice_problems_starter.ipynb&branch=main
 
 **Note:** By clicking on these linked, the file in the url and all additional files in that subfolder will be cloned to the student's JupyterHub environment.
