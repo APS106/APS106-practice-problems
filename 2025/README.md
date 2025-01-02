@@ -14,17 +14,17 @@
 │   ├── week2_practice_problems_complete.zip
 │   ├── utils.py
 │   ├── data.txt
-├── tutorial3
-├── tutorial4
-├── tutorial5
-├── tutorial6
-├── tutorial7
-├── tutorial8
-├── tutorial9
-├── tutorial10
-├── tutorial11
-├── tutorial12
-└── tutorial13
+├── week3
+├── week4
+├── week5
+├── week6
+├── week7
+├── week8
+├── week9
+├── week10
+├── week11
+├── week12
+└── week13
 ```
 
 #### Creating JupyterHub Links
